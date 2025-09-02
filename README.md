@@ -1,2 +1,2 @@
 # sdev220
-sdev 220 software development using python @ ivy tech
+Repository of coursework for the SDEV 220 Software Development Using Python class at Ivy Tech.
