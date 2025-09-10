@@ -32,4 +32,4 @@ while True:
             print(f"{firstname} {lastname} made the Honor Roll. Well done.")
         else: #if GPA is below 3.25, prints neutral message
             print(f"{firstname} {lastname} didn't earn any academic awards.")
-        print("Returning to home screen.") #statement showing that program is returning to main loop
+        print("Returning to home screen.") #statement showing that program is returning to main loop body
