@@ -52,7 +52,6 @@ menagerie.hours()
 import sqlite3
 conn = sqlite3.connect("books.db")
 curs = conn.cursor()
-#curs.execute("DROP TABLE books") # in case this program is run again, drops the table to recreate it rather than generating an error
 curs.execute("""
              CREATE TABLE books
              (title TEXT,
